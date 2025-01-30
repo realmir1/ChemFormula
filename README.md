@@ -1,8 +1,13 @@
-# 🌟 Element Analizi - CustomTkinter Projesi
+ # 🌟 Element Analizi - CustomTkinter Projesi
 
 Elementlerin temel özelliklerini keşfetmeye hazır mısınız? **Element Analizi**, kullanıcıların element isimlerini veya sembollerini girerek **atom numarası, atom kütlesi ve yoğunluk** gibi önemli bilgileri almasını sağlayan şık ve modern bir Python uygulamasıdır. 🧪✨
 
+<p align="center"><img src="https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif" width=500 height=300>
+
+</p
+
 ---
+
 
 ## 🚀 Özellikler
 - **Modern ve şık arayüz** 🎨 (CustomTkinter kullanılarak tasarlanmıştır)
@@ -13,15 +18,13 @@ Elementlerin temel özelliklerini keşfetmeye hazır mısınız? **Element Anali
 ---
 
 ## 📸 Ekran Görüntüleri
-_Aşağıdaki bölüme uygulamanın ekran görüntülerini ekleyin._
-
-<p>
 
 
-   
+<p align="center">
+   <img src="https://github.com/realmir1/ChemFormula/blob/main/Ekran%20Resmi%202025-01-31%2002.25.30.png?raw=true" width=300 height=300>
+   <img src="https://github.com/realmir1/ChemFormula/blob/main/Ekran%20Resmi%202025-01-31%2002.25.26.png?raw=true" width=300 height=300>
+   <img src="https://github.com/realmir1/ChemFormula/blob/main/Ekran%20Resmi%202025-01-31%2002.25.11.png?raw=true" width=300 height=300>
 </p>
-
----
 
 ## 🛠️ Kurulum ve Kullanım
 
