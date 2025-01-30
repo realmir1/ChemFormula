@@ -15,9 +15,11 @@ Elementlerin temel özelliklerini keşfetmeye hazır mısınız? **Element Anali
 ## 📸 Ekran Görüntüleri
 _Aşağıdaki bölüme uygulamanın ekran görüntülerini ekleyin._
 
-📌 **Ekran görüntüsü 1:** (Ana arayüz)
-📌 **Ekran görüntüsü 2:** (Element bilgisi gösterimi)
-📌 **Ekran görüntüsü 3:** (Hata mesajı örneği)
+<p>
+
+
+   
+</p>
 
 ---
 
